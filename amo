@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Desculpe-me</title>
+  <style>
+    .disabled {
+      pointer-events: none;
+    }
+  </style>
+</head>
+<body>
+  <h1>Me desculpe</h1>
+  <button>Sim</button>
+  <button class="disabled">Não</button>
+</body>
+</html>
